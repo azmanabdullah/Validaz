@@ -1,5 +1,5 @@
 <?php
-  require_once "clasess/Validasi.php";
+  require_once "Validasi.php";
   $validasi = new Validasi;
 
   
